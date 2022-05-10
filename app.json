@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "deepend-poc",
-    "slug": "snack-86abbbd0-826e-46fb-aedb-d68a8e834d18",
+    "name": "deepend",
+    "slug": "snack-096533eb-4a15-4ce8-8692-80946f3a7c55",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A fresh, exploratory take on the news"
   }
 }
